@@ -1,4 +1,4 @@
-# Default Accounts Arsenal 🎯
+# 🎯 Default Accounts Arsenal
 
 A comprehensive collection of username and password wordlists designed for penetration testing and security research purposes.
 
