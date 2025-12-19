@@ -4,13 +4,13 @@ A comprehensive collection of username and password wordlists designed for penet
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Contents](#contents)
-- [Username List](#username-list)
-- [Password List](#password-list)
-- [Usage Examples](#usage-examples)
-- [Sources](#sources)
-- [Disclaimer](#disclaimer)
+- [Overview](#-overview)
+- [Contents](#-contents)
+- [Username List](#-username-list)
+- [Password List](#-password-list)
+- [Usage Examples](#-usage-examples)
+- [Sources](#-sources)
+- [Disclaimer](#-disclaimer)
 
 ## 🔍 Overview
 
