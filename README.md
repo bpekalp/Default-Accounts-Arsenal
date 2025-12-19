@@ -11,8 +11,6 @@ A comprehensive collection of username and password wordlists designed for penet
 - [Usage Examples](#usage-examples)
 - [Sources](#sources)
 - [Disclaimer](#disclaimer)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## 🔍 Overview
 
