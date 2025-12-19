@@ -24,12 +24,12 @@ This repository contains carefully curated wordlists that combine commonly used 
 
 ## 📦 Contents
 
-- `daa_users.lst` - 81 common usernames and their variations
+- `daa_users.lst` - 73 common usernames and their variations
 - `daa_pass.lst` - 40,965 merged and deduplicated passwords
 
 ## 👤 Username List
 
-The username list includes **81 entries** covering common default accounts **and their derivatives**:
+The username list includes **73 entries** covering common default accounts **and their derivatives**:
 
 ### System Accounts & Variations
 - **Base accounts**: admin, root, user, guest, system
